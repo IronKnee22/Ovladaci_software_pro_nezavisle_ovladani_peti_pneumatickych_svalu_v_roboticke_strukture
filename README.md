@@ -1,1 +1,6 @@
-# Ovladaci_software_pro_nezavisle_ovladani_peti_pneumatickych_svalu_v_roboticke_strukture
+# Ovládací software pro nezávislé ovládání pěti pneumatických svalů v robotické struktuře
+
+Aplikace je spustitelná pouze na soustavě.
+
+Pro spuštění ve vývojářském módu využijte soubor `main.py`  
+Ostatní soubory nejsou vytvořeny pro samostatné spuštění.
